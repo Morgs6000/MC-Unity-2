@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77275407d31b8094985f1fd6b35a9154, type: 3}
+  m_Name: dirt
+  m_EditorClassIdentifier: 
+  texture: {fileID: 8400000, guid: f53d4a1bd718a8845a50b9b01ccda3bf, type: 2}
+  voxelType: 3

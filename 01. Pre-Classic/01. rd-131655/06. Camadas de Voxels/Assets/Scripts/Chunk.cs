@@ -228,6 +228,6 @@ public class Chunk : MonoBehaviour {
         // GRASS BLOCK
         if(voxelType == VoxelType.grass_block) {
             UVAdd(new Vector2(0, 0));
-        }        
+        }
     }
 }
